@@ -1,0 +1,3 @@
+Busca em largura
+Busca em profundidade
+Busca em profundidade limitada
